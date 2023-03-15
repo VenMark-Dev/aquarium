@@ -1,0 +1,24 @@
+.special {
+	width:calc(90% - 30px);
+	color:rgb(115,18,105);
+	border-radius:20px;
+	padding:100px;
+	background-image:url(../my-site-1/images/bike.png);
+	background-size:contain;
+}
+p {
+  color:red;
+}
+h1 {
+	background-color: blue;
+	font-size: xx-large;
+	width: 25%;
+	color: rgb(148, 222, 127);
+	border: 8mm ridge rgba(170, 50, 220, .6);
+	border-radius:10px;
+	transform:rotate(0.01turn);
+	
+}
+span{
+	padding-left:50px;
+}
